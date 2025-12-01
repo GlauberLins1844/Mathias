@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "lucide-react": "0.344.0",
-    "react": "^19.2.0",
     "framer-motion": "11.0.8",
-    "react-dom": "^19.2.0",
+    "react": "^18.2.0", // Mude de 19.x.x para 18.x.x
+    "react-dom": "^18.2.0", // Mude de 19.x.x para 18.x.x
     "firebase": "^12.6.0"
   },
   "devDependencies": {
